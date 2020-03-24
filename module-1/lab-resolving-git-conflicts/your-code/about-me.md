@@ -1,5 +1,5 @@
 I am Silvia Serafini, I am from Venice,Italy.
-
+I like animals
 I don't have previous experiences on working as data analyst.
 I wouldlike to changecareer
 I would like to learn sql python and the latest data analysis techniques.
