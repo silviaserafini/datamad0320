@@ -30,11 +30,11 @@ ls lorem/ | awk '$(NF+1)=length-4';
 FILES=  lorem/*
 
 #I could not do this for-loop exerice becouse my temrminal said I had not the permission to run a script
-for file in $FILES
+for file in $(ls lorem/)
 do
 	
-    cat $file | wc -m > NUM-4 > NUM
-	echo '${file}  has ${NUM} characters lenght'
+    num= $(echo $file | wc -m )
+	echo 'file  has $NUM characters length'
 	
 done;
 
