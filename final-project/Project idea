@@ -1,0 +1,8 @@
+Project nsme: Guess who
+Project idea: count the number of faces, and detect age and gender in a youtube video. [Image Recognition,Neural Networks]
+
+Database link:
+https://www.cs.columbia.edu/CAVE/databases/facetracer/
+
+Python libraries, api: 
+Pytorch, Youtubedl, Keras, TensorFlow, openCV
