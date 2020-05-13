@@ -6,9 +6,9 @@ https://www.cs.columbia.edu/CAVE/databases/facetracer/
 http://www.cslab.openu.ac.il/download/adiencedb/AdienceBenchmarkOfUnfilteredFacesForGenderAndAgeClassification/
 http://chenlab.ece.cornell.edu/people/Andy/ImagesOfGroups.html
 
-Python libraries, api: 
+Python modules/: 
 pymongo
 Youtubedl
-Keras, TensorFlow  openCVs, 
+Keras, TensorFlow  cv2 (openCVs? PIL?)
 tkinter,
-fpdf, PIL
+fpdf 
